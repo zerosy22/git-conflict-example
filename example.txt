@@ -1,1 +1,2 @@
 "Hello, This is first insert to git-conflict-example" 
+"This is the test for git add -p option"
