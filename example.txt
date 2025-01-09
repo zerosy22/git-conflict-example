@@ -4,3 +4,4 @@
 "This is the change from github.com"
 
 "This is the change for git diff"
+"This is the change for git diff --cached"
